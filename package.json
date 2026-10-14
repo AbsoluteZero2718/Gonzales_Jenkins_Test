@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/junfuller/JSTestDemo.git"
+    "url": "git+https://github.com/AbsoluteZero2718/Gonzales_Jenkins_Test.git"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/junfuller/JSTestDemo#readme",
   "description": "",
-    "devDependencies": {
+  "devDependencies": {
     "jest": "^30.3.0"
   }
 }
